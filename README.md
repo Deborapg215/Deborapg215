@@ -1,5 +1,5 @@
 
-<h1 align="center">Oi! Eu sou a Débora de Oliveira 👩‍💻</h1>
+<h1 align="center">Oi! Sou Debora de Oliveira 👩‍💻</h1>
 
 <p align="center">
   Profissional da área de Dados com paixão por transformar números em decisões estratégicas.  
