@@ -1,17 +1,53 @@
 
-Sou profissional de Dados com paixão por transformar números em decisões estratégicas. Tenho domínio em Python, SQL e Excel, com foco em automação, análise e limpeza de dados. Especialista em Power BI, desenvolvo dashboards claros, intuitivos e orientados a resultados.
+<h1 align="center">Oi! Eu sou a Débora de Oliveira 👩‍💻</h1>
 
-
-
-## Tecnologias:
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Databricks-E02020?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+<p align="center">
+  Profissional da área de Dados com paixão por transformar números em decisões estratégicas.  
+  Especialista em Power BI, com experiência sólida em análise de dados, automação, ETL e visualização.
 </p>
-<!---
-Deborapg215/Deborapg215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Cursando Banco de Dados | Certificações em Power BI e Python
+- 📊 Analista de Dados com experiência em SQL, Python e Excel
+- 📍 Praia Grande/SP | Disponível para remoto ou modelo híbrido
+- 💼 Em transição para Cientista de Dados, com foco em aprendizado contínuo
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00447C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EA3621?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+### 📈 Repositórios em destaque
+
+- [📊 analise-vendas-servicos](https://github.com/Deborapg215/analise-vendas-servicos)  
+  Análise completa de performance de uma empresa prestadora de serviços: folha salarial, faturamento, contratos por área e KPIs visuais.
+
+- [📉 analise_varjo](https://github.com/Deborapg215/analise_varjo)  
+  Estudo com Jupyter Notebook para práticas em Data Cleaning e exploração de dados com pandas.
+
+- [📈 Cria-ao_DaraFrame_Pandas](https://github.com/Deborapg215/Cria-ao_DaraFrame_Pandas)  
+  Demonstrações práticas de criação e manipulação de DataFrames com pandas.
+
+---
+
+### 📬 Vamos nos conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/debora-de-oliveira-957845124)
+- 📧 deboradeoliveira215@gmail.com
+
+---
+
+💡 _"Transformar dados em conhecimento é transformar decisões em impacto."_  
+
